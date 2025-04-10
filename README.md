@@ -1,7 +1,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=dev-Lavi&label=Profile%20views&color=0e75b6&style=flat)
 
 
-https://tenor.com/view/kokou-no-hito-gif-6114751959348483763
+![Kokou no Hito](https://media.tenor.com/3LrB6H3g_hcAAAAC/kokou-no-hito.gif)
+
 
 # 👋 Hi, I'm Lavi Sharma
 
