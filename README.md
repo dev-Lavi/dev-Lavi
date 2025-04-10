@@ -3,7 +3,7 @@
 
 
 
-![Kokou no Hito]([[[[https://media.tenor.com/3LrB6H3g_hcAAAAC/kokou-no-hito.gif](https://media1.tenor.com/m/VNv2gnqXFrMAAAAC/kokou-no-hito.gif)](https://media1.tenor.com/m/9BML3MCCd9AAAAAd/climber.gif)](https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8)](https://c.tenor.com/VNv2gnqXFrMAAAAd/tenor.gif))
+![Kokou no Hito](https://c.tenor.com/VNv2gnqXFrMAAAAd/tenor.gif)
 
 
 
