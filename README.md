@@ -1,10 +1,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=dev-Lavi&label=Profile%20views&color=0e75b6&style=flat)
 
 
-<h3>🧘 My Vibe</h3>
-<p align="center">
-  <img src="https://media1.tenor.com/m/VNv2gnqXFrMAAAAC/kokou-no-hito.gif" alt="Kokou no Hito" width="300" />
-</p>
+
+
+![Kokou no Hito]([https://media.tenor.com/3LrB6H3g_hcAAAAC/kokou-no-hito.gif](https://media1.tenor.com/m/VNv2gnqXFrMAAAAC/kokou-no-hito.gif))
 
 
 
