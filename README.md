@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Lavi Sharma
 
-I'm a passionate **Full Stack Developer** and B.Tech CSE student at AJAY KUMAR GARG ENGINEERING COLLEGE, with a strong foundation in software development, data structures, and backend systems.
+A passionate **Full Stack Developer** and with a strong foundation in software development, data structures, and backend systems.
 
 💻 I love turning ideas into real-world solutions through code. Whether it's crafting beautiful frontends or designing scalable APIs, I'm all in.
 
