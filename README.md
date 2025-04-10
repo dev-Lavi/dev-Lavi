@@ -3,7 +3,7 @@
 
 <h3>🧘 My Vibe</h3>
 <p align="center">
-  <img src="[https://media.tenor.com/3LrB6H3g_hcAAAAC/kokou-no-hito.gif](https://media1.tenor.com/m/VNv2gnqXFrMAAAAC/kokou-no-hito.gif)" alt="Kokou no Hito" width="300" />
+  <img src="https://media1.tenor.com/m/VNv2gnqXFrMAAAAC/kokou-no-hito.gif" alt="Kokou no Hito" width="300" />
 </p>
 
 
