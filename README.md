@@ -36,7 +36,8 @@ I'm a passionate **Full Stack Developer** and B.Tech CSE student at AJAY KUMAR G
 - 🧠 Solved 300+ coding problems across platforms like LeetCode, CodeChef (1000+), HackerRank, and more
 
 ## 📫 Let's Connect
-- 📧 Email: [lavipandit123@gmail.com](mailto:lavipandit123@gmail.com)  
+- 📧 Email: [lavipandit123@gmail.com](mailto:lavipandit123@gmail.com)
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lavi_pachauri_?utm_source=qr&igsh=YmJjYnNocHR0M2o3)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lavi-sharma-332a6a327/)  
 - 💻 [Portfolio]()  
 - 👨‍💻 [LeetCode](https://leetcode.com/u/Lavi10/) | [CodeChef](https://www.codechef.com/users/lavi_dev) | [HackerRank](https://www.hackerrank.com/profile/lavipandit123)
