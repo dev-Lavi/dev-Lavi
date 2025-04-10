@@ -22,22 +22,9 @@ I'm a passionate **Full Stack Developer** and B.Tech CSE student at AJAY KUMAR G
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
-
-
-
-## 🚀 Projects
-- **Cash-cue** – A cross-platform finance management app with ML-powered spending predictions and JWT-secured auth.
-- **Owow Jewellery** – A full-fledged jewelry e-commerce site with a custom-designed logo and modern UI/UX.
-- **Conatus Event Registration** – A secure backend system for managing team registrations in college events, deployed on AWS and protected with Google reCAPTCHA.
-
-## 🏆 Achievements
-- 🏅 Postman Premium winner for excellence in API development
-- 🥇 Ranked 1st in school in Class 12th with 93.6% (PCM)
-- 🧠 Solved 300+ coding problems across platforms like LeetCode, CodeChef (1000+), HackerRank, and more
-
 ## 📫 Let's Connect
-- 📧 Email: [lavipandit123@gmail.com](mailto:lavipandit123@gmail.com)
 - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lavi_pachauri_?utm_source=qr&igsh=YmJjYnNocHR0M2o3)
+- 📧 Email: [lavipandit123@gmail.com](mailto:lavipandit123@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lavi-sharma-332a6a327/)  
 - 💻 [Portfolio]()  
 - 👨‍💻 [LeetCode](https://leetcode.com/u/Lavi10/) | [CodeChef](https://www.codechef.com/users/lavi_dev) | [HackerRank](https://www.hackerrank.com/profile/lavipandit123)
