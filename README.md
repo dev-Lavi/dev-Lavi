@@ -1,5 +1,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=dev-Lavi&label=Profile%20views&color=0e75b6&style=flat)
 
+
+https://tenor.com/view/kokou-no-hito-gif-6114751959348483763
+
 # 👋 Hi, I'm Lavi Sharma
 
 A passionate **Full Stack Developer** and with a strong foundation in software development, data structures, and backend systems.
