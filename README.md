@@ -6,7 +6,8 @@
 
 <h1>👋 Hi, I'm Lavi Sharma</h1>
 
-A passionate <strong>Full Stack Developer</strong> with a strong foundation in software development, data structures, and backend systems.  
+A passionate <strong>Full Stack Developer</strong> with a strong foundation in software development, data structures, and backend systems.
+🎓 Third year student at <strong><Ajay Kumar Garg Engineering College></strong>, graduating in <strong><2027></strong>.
 💻 I love turning ideas into real-world solutions through code. Whether it's crafting beautiful frontends or designing scalable APIs, I'm all in.
 
 <h3>🚀 Languages and Tools:</h3>
