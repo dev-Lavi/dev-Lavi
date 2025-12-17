@@ -10,7 +10,7 @@ A passionate <strong>Full Stack Developer</strong> with a strong foundation in s
 💻 I love turning ideas into real-world solutions through code. Whether it's crafting beautiful frontends or designing scalable APIs, I'm all in.
 
 <!-- 🎓 Education highlight -->
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/College-Ajay%20Kumar%20Garg%20Engineering%20College-0e75b6?style=for-the-badge" alt="Ajay Kumar Garg Engineering College" />
   <img src="https://img.shields.io/badge/Graduation-2027-important?style=for-the-badge" alt="Graduation Year 2027" />
 </p>
