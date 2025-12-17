@@ -36,8 +36,8 @@ A passionate <strong>Full Stack Developer</strong> with a strong foundation in s
 - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lavi_pachauri_?utm_source=qr&igsh=YmJjYnNocHR0M2o3)
 - 📧 Email: [lavipandit123@gmail.com](mailto:lavipandit123@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lavi-sharma-332a6a327/)  
-- 💻 [Portfolio]()  
-- 👨‍💻 [LeetCode](https://leetcode.com/u/Lavi10/) | [CodeChef](https://www.codechef.com/users/lavi_dev) | [HackerRank](https://www.hackerrank.com/profile/lavipandit123)
+- 💻 [Portfolio](https://who-is-lavi-sharma.vercel.app/)  
+- 👨‍💻 [LeetCode](https://leetcode.com/u/Lavi10/) | [CodeChef](https://www.codechef.com/users/lavi_dev)
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
