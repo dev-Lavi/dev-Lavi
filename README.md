@@ -45,7 +45,9 @@ A passionate <strong>Full Stack Developer</strong> with a strong foundation in s
   <!-- Non‑Devicon tools via SVG/PNG logos -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <!-- Generic blockchain logo -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Ethereum_logo.svg" alt="Pinata" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Ethereum_logo.svg" alt="ethereum" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/>
+  
 </p>
 </p>
 
