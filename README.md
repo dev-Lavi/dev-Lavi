@@ -39,12 +39,14 @@ A passionate <strong>Full Stack Developer</strong> with a strong foundation in s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <!-- AWS from Devicon -->
+  <!-- AWS from Devicon (confirmed path) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
 
   <!-- Non‑Devicon tools via SVG/PNG logos -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/35787217?s=200&v=4" alt="Pinata" width="40" height="40"/>
+  <!-- Generic blockchain logo -->
+  <img src="https://www.svgrepo.com/show/338985/blockchain.svg" alt="Blockchain" width="40" height="40"/>
+</p>
 </p>
 
 
