@@ -53,9 +53,12 @@ A passionate <strong>Full Stack Developer</strong> with a strong foundation in s
 
 <h3>🌍 Open Source Contributions</h3>
 
-[![First Design Badge](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://cloud.layer5.io/user128e1d8d-d8dc-4102-9fe3-7a44278ed182?tab=badges&badge=first-design)
+<p align="left">
+  <a href="https://cloud.layer5.io/user128e1d8d-d8dc-4102-9fe3-7a44278ed182?tab=badges&badge=first-design">
+    <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="120" />
+  </a>
+</p>
 
-<sup>🏅 Earned for contributing design work to an open-source project under Layer5</sup>
 
 
 <h3>📫 Let's Connect</h3>
