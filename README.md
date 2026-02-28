@@ -86,7 +86,7 @@ A passionate <strong>Full Stack Developer</strong> with a strong foundation in s
 </td>
 <td valign="top" width="40%">
   <img src="https://c.tenor.com/VNv2gnqXFrMAAAAd/tenor.gif" alt="Kokou no Hito" width="300"/><br><br>
-    <img src="https://i.pinimg.com/originals/2d/82/d9/2d82d901304ed14d0ea5d44c6d12dbac.gif" alt="Guts walking" width="300"/><br><br>
+    <img src="https://media1.tenor.com/m/7KTms42M9RUAAAAC/berserk-guts.gif" alt="Guts walking" width="300"/><br><br>
   <img src="https://media1.tenor.com/m/CwTQQNdmV-4AAAAd/vagabond-musashi.gif" alt="Mushshi walking and wrote this code manually" width="300"/>
 </td>
   </tr>
