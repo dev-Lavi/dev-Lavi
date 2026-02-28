@@ -59,6 +59,18 @@ A passionate <strong>Full Stack Developer</strong> with a strong foundation in s
   </a>
 </p>
 
+<h3>🔥 LeetCode Streak</h3>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Lavi10?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+<h3>📊 GitHub Contribution Graph</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-Lavi&theme=react-dark" alt="GitHub Contribution Graph" />
+</p>
+
 
 
 <h3>📫 Let's Connect</h3>
