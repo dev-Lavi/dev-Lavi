@@ -75,16 +75,20 @@ A passionate <strong>Full Stack Developer</strong> with a strong foundation in s
   <img src="https://leetcard.jacoblin.cool/Lavi10?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
-<h3>📊 GitHub Contribution Graph</h3>
+<h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <a href="https://github.com/dev-Lavi">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=dev-Lavi&theme=react-dark&hide_border=true"
-      alt="GitHub Activity Graph"
-      width="100%"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dev-Lavi&show_icons=true&theme=react_dark&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=dev-Lavi&theme=react&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 
