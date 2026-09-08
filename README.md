@@ -78,7 +78,13 @@ A passionate <strong>Full Stack Developer</strong> with a strong foundation in s
 <h3>📊 GitHub Contribution Graph</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-Lavi&theme=react-dark" alt="GitHub Contribution Graph" />
+  <a href="https://github.com/dev-Lavi">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=dev-Lavi&theme=react-dark&hide_border=true"
+      alt="GitHub Activity Graph"
+      width="100%"
+    />
+  </a>
 </p>
 
 
